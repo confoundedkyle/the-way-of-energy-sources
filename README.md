@@ -8,6 +8,13 @@ Start with [the full bibliography](SOURCES.md), or download the [APA-style PDF](
 
 This companion contains the documented source record behind Kyle Byrd’s article, including sources omitted from the narrative and sources screened but excluded. Unresolved authors, titles and dates are flagged. Screened exclusions remain separate from qualifying evidence. Search-log URLs are not described as fully reviewed articles.
 
+## Charts
+
+View or download these full-size vector PDFs; text and shapes stay sharp when zoomed:
+
+- [Pie chart](The_Way_of_Energy_Pie_Chart.pdf)
+- [Heatmap](The_Way_of_Energy_Heatmap.pdf)
+
 ## Files
 
 | File | Purpose |
