@@ -10,6 +10,12 @@ This companion contains the documented source record behind Kyle Byrd’s articl
 
 ## Charts
 
+Open the browser-friendly charts:
+
+- [Interactive heatmap](https://confoundedkyle.github.io/the-way-of-energy-sources/heatmap.html) — search companies, enlarge cells, and scroll with fixed labels.
+- [Pie chart](https://confoundedkyle.github.io/the-way-of-energy-sources/pie-chart.html) — scalable graphic with readable counts and percentages.
+
+
 View or download these full-size vector PDFs; text and shapes stay sharp when zoomed:
 
 - [Pie chart](The_Way_of_Energy_Pie_Chart.pdf)
